@@ -38,7 +38,7 @@ git clone https://github.com/shubhamkulal/Restaurants-EDA-using-MySQL-Workbench.
 
 ## Data Source
 
-The dataset used in this project is sourced from [(https://download.data.world/download/monica-garfield/hikers-dataset)]. The dataset includes information about restaurants, such as their names, locations, cuisines, ratings, etc. Please refer to the data source for detailed information about the dataset. The link i provided here contain raw dataset (I had already cleaned data in MS-Excel using Filter method and uploaded to repository.)
+The dataset used in this project is sourced from [(https://data.world/monica-garfield/hikers-dataset)]. The dataset includes information about restaurants, such as their names, locations, cuisines, ratings, etc. Please refer to the data source for detailed information about the dataset. The link i provided here contain raw dataset (I had already cleaned data in MS-Excel using Filter method and uploaded to repository.)
 
 ## Technologies Used
 
